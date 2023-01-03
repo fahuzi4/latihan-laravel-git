@@ -27,6 +27,7 @@
                     {{ __('Anda berhasil login sebagai ') }} {{ $data->role_user }}
  
                     <hr>
+                    <!-- contoh penambahan perubahan -->
  
                     @if($role_id == 1)
                     <!--JIKA ROLE USER PENJUAL-->
